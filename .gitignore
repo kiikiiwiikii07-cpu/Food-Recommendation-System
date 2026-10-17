@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+.pnpm-store/
+.next/
+.pytest_cache/
+.runlogs/
+.tools/
+coverage/
+backend/*.sqlite3
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
